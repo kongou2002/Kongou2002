@@ -1,11 +1,3 @@
-### Hi there 👋
-
-<!--
-**kongou2002/Kongou2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# my-profile
 
 <div align="center">
   <img align="center" height="250px" src="https://user-images.githubusercontent.com/66428255/192133748-59376ad2-526c-4089-a3b5-d0fbb9d6c478.gif" />
@@ -57,7 +49,7 @@ Here are some ideas to get you started:
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align=center>
   <div>
-    <img width="366" align="left" src="https://github-readme-stats.vercel.app/api?username=Kongou2002&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="366" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongou2002&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <div>
     <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=kongou2002&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
