@@ -11,7 +11,6 @@
 ## **☕ About me**
 
 - :credit_card: My full name is **Nguyen Bui Gia Chan**
-<!-- - :school: I'm graduated from **FPT University - Ho Chi Minh City** -->
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
 - :bulb: Best fact: **_"Some thing can go wrong, will go wrong"_**
