@@ -22,7 +22,7 @@ I'm a software engineer and my hobbies are playing games, watching anime, readin
 
 ## **💻 Experience**
 
-<a href="https://github.com/kongou2002"><img align="right" width="100" src="./emojis/TPF_Kongou_Sugoi.PNG"></a>
+<a href="https://github.com/kongou2002"><img align="right" width="50" src="./emojis/TPF_Kongou_Sugoi.PNG"></a>
 I'm currently software engineering at [Orochi network](https://www.orochi.network/). Im work as frontend dev but im still willing to learn more about backend side よろしく <3
 
 ## **📊 Github Stats**
