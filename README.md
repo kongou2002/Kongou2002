@@ -14,18 +14,18 @@
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
 - :bulb: Best fact: **_"Some thing can go wrong, will go wrong"_**
 
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="50" src="./emojis/Kongou_drink.PNG"></a>
+<a href="https://github.com/kongou2002"><img align="left" width="50" src="./emojis/Kongou_drink.PNG"></a>
 I'm a software engineer and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
 
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./emojis/TPF_Kongou_Sugoi.PNG"></a>
+<a href="https://github.com/kongou2002"><img align="right" width="100" src="./emojis/TPF_Kongou_Sugoi.PNG"></a>
 I'm currently software engineering at [Orochi network](https://www.orochi.network/). Im work as frontend dev but im still willing to learn more about backend side よろしく <3
 
 ## **📊 Github Stats**
 
-<!-- <div><a href="https://github.com/MiyagawaMizu"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
+<!-- <div><a href="https://github.com/kongou2002"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
 <p align="center"><img width="366" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongou2002&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=kongou2002&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </p>
 
@@ -37,11 +37,11 @@ I'm currently software engineering at [Orochi network](https://www.orochi.networ
 <!-- ## **🧋Cutie Counter** -->
 
 <!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=moebooru-h"> <br/>
+	<img src="https://moe-counter.glitch.me/get/@kongou2002?theme=moebooru-h"> <br/>
 </p> -->
 
-<!-- <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./images/mahiro.png"></a>
+<!-- <a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kongou2002?theme=rule34"></a>
+<a href="https://github.com/kongou2002"><img align="left" width="100" src="./images/mahiro.png"></a>
 
 ```yaml
 People who visit my profile :3.
@@ -53,12 +53,12 @@ Hehe~ another cutie has been caught.
 
 ## **📫 Contact**
 
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="./emojis/KONGOU.PNG" /></a>
+<a href="https://github.com/kongou2002"><img align="right" width="100" src="./emojis/KONGOU.PNG" /></a>
 **Please Contact me on Discord for a quick response:** [oh no](https://discord.com/users/374101306681458689)
 
 **You can also email me here:** giachan9@gmail.com
 
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=MiyagawaMizu"> -->
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=kongou2002"> -->
 
 <div align="center">
   <a href="mailto:giachan9@gmail.com" >
@@ -75,4 +75,4 @@ Hehe~ another cutie has been caught.
   </a> &nbsp; 
 </div>
 
-<!-- [![MiyagawaMizu](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
+<!-- [![kongou2002](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
