@@ -55,7 +55,7 @@ Hehe~ another cutie has been caught.
 
 ## **📫 Contact**
 
-<a href="https://github.com/kongou2002"><img align="right" width="100" src="./emojis/KONGOU.PNG" /></a>
+<a href="https://github.com/kongou2002"><img align="right" width="70" src="./emojis/KONGOU.PNG" /></a>
 **Please Contact me on Discord for a quick response:** [oh no](https://discord.com/users/374101306681458689)
 
 **You can also email me here:** giachan9@gmail.com
