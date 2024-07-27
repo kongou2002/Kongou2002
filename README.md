@@ -1,6 +1,6 @@
 ![Preview](./emojis/thumb-1920-749981.png)
 
-<a href=""><img align="right" width="425" heigh="300px" src="./emojis/LNE_branco_staff93.GIF"></a>
+<a href=""><img align="right" width="100" src="./emojis/LNE_branco_staff93.GIF"></a>
 
 ### Hi!👋 I'm Kongou Haruto 💎
 
@@ -14,7 +14,7 @@
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
 - :bulb: Best fact: **_"Some thing can go wrong, will go wrong"_**
 
-<a href="https://github.com/MiyagawaMizu"><img align="left" width="100" src="./emojis/Kongou_drink.PNG"></a>
+<a href="https://github.com/MiyagawaMizu"><img align="left" width="50" src="./emojis/Kongou_drink.PNG"></a>
 I'm a software engineer and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
