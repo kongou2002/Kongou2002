@@ -71,7 +71,7 @@ Hehe~ another cutie has been caught.
   <a href="https://github.com/Kongou2002" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ht-kongou-432a701a0/" >
+  <a href="https://www.linkedin.com/in/nguyen-bui-gia-chan-432a701a0/" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
   </a> &nbsp; 
 </div>
